@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: sujithvarma02/sujith_practice:5
+          image: sujithvarma02/sujith_practice:6
           ports:
             - containerPort: 8080
       
